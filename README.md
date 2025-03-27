@@ -7,7 +7,9 @@ Student @ TU Braunschweig
 
 Python, JS/TS, C++, NextJS, React, Performance, Innovation
 
+let's connect!
 
+[linkedin](https://www.linkedin.com/in/myprofile) | [personal-web](https://profile.azharfr.me)
 
 <!--
 **kunkoala/kunkoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
