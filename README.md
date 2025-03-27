@@ -1,4 +1,13 @@
-## Hi there 👋
+### hi there! 👋
+
+I'm kunkoala from 🇮🇩, fully immersed in full-stack development. future CTO
+- Working Student @ DLR
+
+Student @ TU Braunschweig
+
+Python, JS/TS, C++, NextJS, React, Performance, Innovation
+
+
 
 <!--
 **kunkoala/kunkoala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
